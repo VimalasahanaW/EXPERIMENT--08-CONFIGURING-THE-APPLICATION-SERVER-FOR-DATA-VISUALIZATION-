@@ -1,5 +1,7 @@
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
- 
+## NAME:VIMALA SAHANA W
+## REG NO:212223040241
+## DATE:16-11-24
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
 ## Components required: Iot application server 
 ## Theory :
@@ -29,11 +31,14 @@ As the application server market matures, high performance becomes a stronger cr
 
 ## OUTPUT 
  
-
-![Screenshot 2024-10-28 085853](https://github.com/user-attachments/assets/d33ed983-101f-46b0-9191-e14b0f1c0b80)
-![Screenshot 2024-10-28 084026](https://github.com/user-attachments/assets/2c6247e1-141e-4d52-bfc7-ab2bea46d76c)
-![Screenshot 2024-10-28 083950](https://github.com/user-attachments/assets/d2f83e4f-9e5f-4617-a9e9-628b9f357f24)
 ![Screenshot 2024-10-28 083927](https://github.com/user-attachments/assets/f8242fc7-6050-4cd2-be72-b8658e76d7f1)
+![Screenshot 2024-10-28 083950](https://github.com/user-attachments/assets/d2f83e4f-9e5f-4617-a9e9-628b9f357f24)
+![Screenshot 2024-10-28 084026](https://github.com/user-attachments/assets/2c6247e1-141e-4d52-bfc7-ab2bea46d76c)
+![Screenshot 2024-10-28 085853](https://github.com/user-attachments/assets/d33ed983-101f-46b0-9191-e14b0f1c0b80)
+
+
+
+
 
 
 
